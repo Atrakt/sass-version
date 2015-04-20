@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.email           = 'atraktstudio@gmail.com'
   s.files           = ['lib/sass-version.rb', 'README.md', 'Version']
   s.require_paths   = ['lib']
-  s.homepage        = 'http://atrakt.github.io/sass-version'
+  s.homepage        = 'https://github.com/Atrakt/sass-version'
   s.license         = 'MIT'
   s.extra_rdoc_files  = ['README.md', 'Version']
   s.add_dependency('sass', '~> 3.2')
