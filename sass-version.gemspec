@@ -6,10 +6,10 @@ Gem::Specification.new do |s|
   s.description     = 'Simple SASS function for adding version to compiled CSS'
   s.authors         = ['atraktstudio']
   s.email           = 'atraktstudio@gmail.com'
-  s.files           = ['lib/sass-version.rb', 'README.md', 'Version']
+  s.files           = ['lib/sass-version.rb', 'README.md', 'Version', 'LICENSE.md']
   s.require_paths   = ['lib']
   s.homepage        = 'https://github.com/Atrakt/sass-version'
   s.license         = 'MIT'
-  s.extra_rdoc_files  = ['README.md', 'Version']
+  s.extra_rdoc_files  = ['README.md', 'Version', 'LICENSE.md']
   s.add_dependency('sass', '~> 3.2')
 end
