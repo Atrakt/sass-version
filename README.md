@@ -1,4 +1,4 @@
-# sass-version [![Gem Version](https://img.shields.io/gem/v/sass-version.svg)](https://rubygems.org/gems/sass-version) [![Total Downloads](https://img.shields.io/gem/dt/sass-version.svg)](https://rubygems.org/gems/sass-version)
+# sass-version [![Gem Version](https://img.shields.io/gem/v/sass-version.svg)](https://rubygems.org/gems/sass-version) [![Total Downloads](https://img.shields.io/gem/dt/sass-version.svg)](https://rubygems.org/gems/sass-version) [![Build Status](https://travis-ci.org/Atrakt/sass-version.svg?branch=master)](https://travis-ci.org/Atrakt/sass-version)
 Simple SASS function for adding version to compiled CSS from file.
 
 ### Requirements
