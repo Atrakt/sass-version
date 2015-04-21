@@ -2,8 +2,8 @@ language: ruby
 
 rvm: 2.1.3
 
-before_install:
-  - gem update --system
-  - gem --version
+cache: bundler
 
-install: gem install sass
+sudo: false
+
+script: bundle exec rake test
