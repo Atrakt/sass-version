@@ -2,8 +2,3 @@ language: ruby
 
 rvm: 2.1.3
 
-cache: bundler
-
-sudo: false
-
-script: bundle exec rake test
